@@ -6,7 +6,7 @@
   <div>
   <div style="display: inline_block; background:red;">
     
-<a href="www.linkedin.com/in/alaya-toheeb/">
+<a href="www.linkedin.com/in/alaya-toheeb">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/teemah_1998">
