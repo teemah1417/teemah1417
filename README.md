@@ -18,7 +18,7 @@
   <h2>Technologies</h2>
       
   <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://icons8.com/icon/GPfHz0SM85FX/java-coffee-cup-logo--v2">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
