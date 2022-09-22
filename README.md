@@ -1,5 +1,15 @@
-<h1 style="color:red">Your professional title</h1>
-<p>This is a professional bio about me<p>
+<h1>Software engineer</h1>
+<div>
+    <p>
+     Software engineer with experience working with teams of all sizes to produce impactful, leading-edge solutions that engage customers and deliver business results. Well-versed in developing progressive web application using modern, scalable and optimized code writing.
+     </p>
   <div>
-    <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="50px" height="50px"/>
-</div>
+  <div style="display: inline_block; background:red;">
+    
+<a href="www.linkedin.com/in/alaya-toheeb/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/teemah_1998">
+  <img src="https://img.icons8.com/color/344/twitter--v1.png" width="24px" />
+</a>
+  </div>
